@@ -1,5 +1,5 @@
 # shiny_takeway
 
-这个项目依赖基站数据，主要是展示基站的到达出发人数。
+This project is based on the Beijing mobile BS data.
 
-使用了tidyverse, shinythemes, plotly and shinyjs 这几个包的功能。
+using tidyverse, shinythemes, plotly and shinyjs
