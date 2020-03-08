@@ -6,7 +6,7 @@ library(shinyjs)
 library(DT)
 library(leaflet)
 
-#Read data
+#Read all data
 db_sale <- read_csv("data.csv")
 db_geo <- read_csv("GeoLabel.csv")
 #Format date
